@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(76, 61, 140);
+    text-align: center;
+    }
+h1, h4, h5, p {
+    font-family: arial;
+    }
+h4 {
+    color: rgb(118, 135, 152);
+    }
